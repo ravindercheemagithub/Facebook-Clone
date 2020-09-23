@@ -46,7 +46,7 @@ function Header() {
             </div>
             <div className="header__right">
                 <div className="header__info">
-                    <Avatar />
+                    <Avatar src="https://lh3.googleusercontent.com/ogw/ADGmqu_EJUCn6PVrfbR35BBPJOf57nCRXgo0AMb1chZE=s64-c-mo" />
                     <h4>Sashita Ghimire</h4>
                 </div>
                 <IconButton>

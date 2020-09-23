@@ -14,7 +14,7 @@ function Sidebar() {
     return (
         <div className="sidebar">
              <SidebarRow src="https://lh3.googleusercontent.com/ogw/ADGmqu_EJUCn6PVrfbR35BBPJOf57nCRXgo0AMb1chZE=s64-c-mo"
-                title="Sashita" />
+                title="Sashita Ghimire" />
             <SidebarRow Icon={LocalHospitalIcon} title="COVID-19 Information Center" />
             <SidebarRow Icon={EmojiFlagsIcon} title="Pages" />
             <SidebarRow Icon={PeopleIcon} title="Friends" />
